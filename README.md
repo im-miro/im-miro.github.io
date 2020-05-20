@@ -10,6 +10,14 @@ Alexa/twitter API/Discord API/Django REST FW/openVPN/netlify/Docker...
 
 Python/Ruby....
 
+# Using tech
+
+openvpn/nginx/ssl/DRF...
+
 # like
 
 OSS/Pudding.../
+
+# twitter
+
+https://twitter.com/Thsgw3
