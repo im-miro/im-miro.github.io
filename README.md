@@ -2,6 +2,11 @@
 
 ![image](image0.png)
 
+
+# name
+
+TAITO HASEGAWA (はせやん)
+
 # intarest
 
 Alexa/twitter API/Discord API/Django REST FW/openVPN/netlify/Docker...
