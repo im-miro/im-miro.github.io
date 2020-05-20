@@ -20,4 +20,4 @@ OSS/Pudding.../
 
 # twitter
 
-https://twitter.com/Thsgw3
+[@Thsgw3](https://twitter.com/Thsgw3)
